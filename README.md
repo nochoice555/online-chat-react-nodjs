@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Online chat project. 
 
-Online chat project. Using React, Node.js, Express, websockets(sokets io).
+Using React, Node.js, Express, websockets(sokets io).
 1st branch Client side.
 2d branch Server side.
 
