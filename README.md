@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 Online chat project. Using React, Node.js, Express, websockets(sokets io).
+1st branch Client side.
+2d branch Server side.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
